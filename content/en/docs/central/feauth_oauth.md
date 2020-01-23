@@ -13,6 +13,8 @@ __
 
 **Exercise for workshop**
 
+**Changes further are in progress**
+
 ## Before you start
 
 * You will need a client ID, issuer, and metadata path provided by your third-party OAuth server.
