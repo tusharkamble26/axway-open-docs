@@ -9,6 +9,10 @@ description: >-
 ---
 _Estimated reading time: 5 minutes_
 
+__
+
+**Exercise for workshop**
+
 ## Before you start
 
 * You will need a client ID, issuer, and metadata path provided by your third-party OAuth server.
